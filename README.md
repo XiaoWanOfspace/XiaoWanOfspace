@@ -1,11 +1,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=XiaoWanOfspace&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
+### 说辞
 💬一个热爱java的00后 在累 也要学着给自己买花
 
 ### 关于我
-- ⭐csdn  [长青青很爱笑](https://blog.csdn.net/qq_40388413)
+- ⭐CSDN  [长青青很爱笑](https://blog.csdn.net/qq_40388413)
 - ⚡Blog  [小若欢](https://www.cnblogs.com/aowan/)
-- ⭐gitee [欢欢有点累](https://gitee.com/ruanhuan666)
+- ⭐Gitee [欢欢有点累](https://gitee.com/ruanhuan666)
 
 
 
