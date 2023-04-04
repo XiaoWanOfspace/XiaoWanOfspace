@@ -9,7 +9,7 @@
 - ⚡Blog  [小若欢](https://www.cnblogs.com/aowan/)
 - ⭐Gitee [欢欢有点累](https://gitee.com/ruanhuan666)
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="50%" height="50%" />
 ### 🛠 技术栈 | Tech Stack
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
    ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
@@ -18,4 +18,4 @@
    [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
    [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="50%" height="50%" />
+
