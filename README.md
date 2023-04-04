@@ -1,8 +1,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=XiaoWanOfspace&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-一个热爱java的00后，在累，也要学着给自己买花.
+💬一个热爱java的00后 在累 也要学着给自己买花
 
-- 想要了解更多，请关注我的博客 [长青青很爱笑](https://blog.csdn.net/qq_40388413)
+### 关于我
+- ⭐csdn  [长青青很爱笑](https://blog.csdn.net/qq_40388413)
+- ⚡Blog  [小若欢](https://www.cnblogs.com/aowan/)
+- ⭐gitee [欢欢有点累](https://gitee.com/ruanhuan666)
 
 
 
@@ -13,4 +16,4 @@
    [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
    [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
