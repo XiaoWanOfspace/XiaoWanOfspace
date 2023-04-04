@@ -12,13 +12,12 @@
 
 
 ### 🛠 技术栈 | Tech Stack
-   <div>
+
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
    ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
    ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=Node.js&logoColor=ffffff)</br>
    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
    [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
    [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-<img  alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" height="160"  style="margin: 5px; margin-top: 40px;"  />   
-</div>
+<img  alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" height="160"  style="margin: 5px;"  />   
 
