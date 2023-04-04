@@ -1,51 +1,29 @@
-## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img src="https://github-readme-stats.vercel.app/api?username=XiaoWanOfspace&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-### I'm Siwei Zhou
+一只纯业余的编程爱好者，略懂略懂 *Amateur programming enthusiast*
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- 想要了解更多，请关注我的博客[秋风于渭水](https://www.tjsky.net)
+- Read more about my Blog [Blog](https://www.tjsky.net)
 
-### 🛠 技术栈 | Tech Stack
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
-
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+### Latest Blog Posts
+ 
+<!-- BLOG-POST-LIST:START -->
+- [使用 GitHub Action + Google Translate 实现翻译 RSS 订阅源全文](https://www.tjsky.net/tutorial/644?pk_campaign=feed&pk_kwd=%25e4%25bd%25bf%25e7%2594%25a8-github-action-google-translate-%25e5%25ae%259e%25e7%258e%25b0-rss-%25e7%25bf%25bb%25e8%25af%2591%25ef%25bc%2588%25e8%25ae%25a2%25e9%2598%2585%25e6%25ba%2590%25e5%2585%25a8%25e6%2596%2587%25ef%25bc%2589)
+- [谷歌 Bard 智能 AI 机器人开放测试注册通道](https://www.tjsky.net/tutorial/640?pk_campaign=feed&pk_kwd=%25e8%25b0%25b7%25e6%25ad%258c-bard-%25e6%2599%25ba%25e8%2583%25bd-ai-%25e6%259c%25ba%25e5%2599%25a8%25e4%25ba%25ba%25e5%25bc%2580%25e6%2594%25be%25e6%25b5%258b%25e8%25af%2595%25e6%25b3%25a8%25e5%2586%258c%25e9%2580%259a%25e9%2581%2593)
+- [中国国内至国际骨干 ISP 线路整理](https://www.tjsky.net/tutorial/633?pk_campaign=feed&pk_kwd=%25e4%25b8%25ad%25e5%259b%25bd%25e5%259b%25bd%25e5%2586%2585%25e8%2587%25b3%25e5%259b%25bd%25e9%2599%2585%25e9%25aa%25a8%25e5%25b9%25b2-isp-%25e7%25ba%25bf%25e8%25b7%25af%25e6%2595%25b4%25e7%2590%2586)
+- [为 win11 安卓子系统（WSA）内 APP 设置桌面快捷方式](https://www.tjsky.net/tutorial/630?pk_campaign=feed&pk_kwd=%25e4%25b8%25ba-win11-%25e5%25ae%2589%25e5%258d%2593%25e5%25ad%2590%25e7%25b3%25bb%25e7%25bb%259f%25ef%25bc%2588wsa%25ef%25bc%2589%25e5%2586%2585-app-%25e8%25ae%25be%25e7%25bd%25ae%25e6%25a1%258c%25e9%259d%25a2%25e5%25bf%25ab%25e6%258d%25b7%25e6%2596%25b9%25e5%25bc%258f)
+- [AI 绘画与作画  stable diffusion webui 常见模型汇总及简介](https://www.tjsky.net/tutorial/583?pk_campaign=feed&pk_kwd=ai-%25e7%25bb%2598%25e7%2594%25bb%25e4%25b8%258e%25e4%25bd%259c%25e7%2594%25bb-stable-diffusion-webui-%25e5%25b8%25b8%25e8%25a7%2581%25e6%25a8%25a1%25e5%259e%258b%25e6%25b1%2587%25e6%2580%25bb%25e5%258f%258a%25e7%25ae%2580%25e4%25bb%258b)
+<!-- BLOG-POST-LIST:END -->
