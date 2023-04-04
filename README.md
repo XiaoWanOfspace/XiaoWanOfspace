@@ -1,9 +1,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=XiaoWanOfspace&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-一只纯业余的编程爱好者，略懂略懂 *Amateur programming enthusiast*
+一个热爱java的00后，在累，也要学着给自己买花.
 
-- 想要了解更多，请关注我的博客[欢欢](https://blog.csdn.net/qq_40388413)
-- Read more about my Blog [Blog](https://www.tjsky.net)
+- 想要了解更多，请关注我的博客 [长青青很爱笑](https://blog.csdn.net/qq_40388413)
+
 
 
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
