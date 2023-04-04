@@ -2,7 +2,7 @@
 
 
 
-### I'm Siwei Zhou
+### I'm is xiaosu
 🌱一个热爱java的00后 在累 也要学着给自己买花
 
 ### 关于我
@@ -13,7 +13,7 @@
 <img  alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" height="160" width="385"   align="right" 
      style="margin-top: -60px;" />  
 
-### 🛠 技术栈 | Tech Stack
+### 技术栈 | Tech Stack
 
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
    ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
