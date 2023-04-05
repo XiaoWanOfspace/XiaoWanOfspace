@@ -5,6 +5,7 @@
 ### I'm is xiaosu
 🌱一个热爱java的00后 在累 也要学着给自己买花
 
+
 ### 关于我
 - ⭐CSDN  [长青青很爱笑](https://blog.csdn.net/qq_40388413)
 - ⚡Blog  [小若欢](https://www.cnblogs.com/aowan/)
@@ -12,7 +13,8 @@
 
 <img  alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" height="30%" width="30%"   align="right" 
      style="margin-top: -60px;" />  
-</br>
+
+
 ### 技术栈 | Tech Stack
 
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
