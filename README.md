@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=XiaoWanOfspace&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 
 <div align="center">
 
@@ -10,6 +10,8 @@
 width="800"  height="3">
 
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=XiaoWanOfspace&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### I'm is xiaosu
 🌱一个热爱java的00后 在累 也要学着给自己买花
