@@ -2,7 +2,7 @@
 
 <div align="center">
      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=560&lines=Surviving+the+low+valley+and+thriving+to+emerge.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=580&lines=Surviving+the+low+valley+and+thriving+to+emerge.)](https://git.io/typing-svg)
 
 
 
