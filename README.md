@@ -12,9 +12,9 @@
 
 <img  alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" height="45%" width="45%"   align="right" 
      style="margin-top: -60px;" />  
-
-### 技术栈 | Tech Stack
 </br>
+### 技术栈 | Tech Stack
+
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
    ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
    ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=Node.js&logoColor=ffffff)</br>
