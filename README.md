@@ -2,7 +2,7 @@
 
 <div align="center">
      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Touch+the+little+pig's+head%2C+don't+worry+about+anything)](https://git.io/typing-svg)
 
 
 
