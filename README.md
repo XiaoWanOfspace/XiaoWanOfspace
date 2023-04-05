@@ -2,7 +2,8 @@
 
 <div align="center">
      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Touch+the+little+pig's+head%2C+don't+worry+about+anything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Surviving+the+low+valley+and+thriving+to+emerge)](https://git.io/typing-svg)
+
 
 
 
