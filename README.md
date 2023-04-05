@@ -2,7 +2,7 @@
 
 <div align="center">
      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=aa.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=Surviving the low valley and thriving to emerge.)](https://git.io/typing-svg)
 
 
 
