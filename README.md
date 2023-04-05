@@ -10,7 +10,7 @@
 - ⚡Blog  [小若欢](https://www.cnblogs.com/aowan/)
 - ⭐Gitee [欢欢有点累](https://gitee.com/ruanhuan666)
 
-<img  alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" height="160" width="385"   align="right" 
+<img  alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" height="30%" width="30%"   align="right" 
      style="margin-top: -60px;" />  
 
 ### 技术栈 | Tech Stack
