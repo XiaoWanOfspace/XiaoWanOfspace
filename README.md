@@ -13,7 +13,7 @@ width="800"  height="3">
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=XiaoWanOfspace&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### I'm is xiaosu
 🌱一个热爱java的00后 在累 也要学着给自己买花
 
@@ -36,4 +36,4 @@ width="800"  height="3">
    [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
