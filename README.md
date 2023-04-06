@@ -29,7 +29,7 @@ width="800"  height="3">
 ### 💻 Workspaces 
 
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-    <img src="http://mtw.so/5wdged" height="160"  />
+    <img src="http://mtw.so/5DJt86" height="57" width="14"  />
    ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=Node.js&logoColor=ffffff)<br>
    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
    [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
