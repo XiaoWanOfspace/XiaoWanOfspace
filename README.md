@@ -28,7 +28,7 @@ width="800"  height="3">
 
 ### 💻 Workspaces 
 
-   <img src="http://mtw.so/5DJrfY" width="69" height="20">
+   <img src="http://mtw.so/5DJrfY" width="35" height="20">
    <img src="http://mtw.so/60i6OU" width="69" height="20">
    ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=Node.js&logoColor=ffffff)<br>
    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
