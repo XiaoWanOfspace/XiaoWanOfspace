@@ -32,7 +32,7 @@ width="800"  height="3">
    <img src="http://mtw.so/60i6OU" width="69" height="20">
    <img src="http://mtw.so/5SLRyS" width="69" height="20">
    <img src="http://mtw.so/6mQKyV" width="67" height="20">
-   <img src="http://mtw.so/5SLRqE" width="57" height="20">
+   <img src="http://mtw.so/5SLRsK" width="57" height="20">
    <img src="http://mtw.so/6umXHY" width="43" height="20">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="160" align="right" 
           style="margin-top:-250px;display:block;" />
