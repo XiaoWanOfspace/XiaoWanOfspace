@@ -27,7 +27,7 @@ width="800"  height="3">
 
 
 ### 💻 Workspaces 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="160" width="1003" align="right" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="160" width="400" align="right" 
                style="" />
    <div> 
      
