@@ -34,7 +34,7 @@ width="800"  height="3">
    <img src="http://mtw.so/5DJrfY" width="35" height="20">
    <img src="http://mtw.so/60i6OU" width="69" height="20">
    <img src="http://mtw.so/5SLRyS" width="69" height="20">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWanOfspace&layout=compact" height="160" width="440" align="right" 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWanOfspace&layout=compact" height="160"  align="right" 
                 />
      
    <div>
