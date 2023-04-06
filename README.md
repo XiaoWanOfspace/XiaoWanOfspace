@@ -34,8 +34,9 @@ width="800"  height="3">
    <img src="http://mtw.so/5DJrfY" width="35" height="20">
    <img src="http://mtw.so/60i6OU" width="69" height="20">
    <img src="http://mtw.so/5SLRyS" width="69" height="20">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="160" width="400" align="right" 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="160" width="400" align="right" 
                style="" />
+     
      
    <div style="margin-top:40px">
    <img src="http://mtw.so/6mQKyV" width="67" height="20">
