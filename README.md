@@ -23,7 +23,7 @@ width="800"  height="3">
 - ⚡Blog   [小若欢](https://www.cnblogs.com/aowan/)
 - ⭐Gitee [欢欢有点累](https://gitee.com/ruanhuan666)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWanOfspace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a style="text-align='right'"></a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWanOfspace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 
 ### 技术栈 | Tech Stack
