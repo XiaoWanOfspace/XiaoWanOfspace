@@ -36,7 +36,7 @@ width="800"  height="3">
    <img src="http://mtw.so/5SLRyS" width="69" height="20">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="160" width="400" align="right" 
                style="" />
-     <div>
+     
     
    <img src="http://mtw.so/6mQKyV" width="67" height="20">
    <img src="http://mtw.so/5SLRsK" width="57" height="20">
