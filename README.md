@@ -23,8 +23,7 @@ width="800"  height="3">
 - ⚡Blog   [小若欢](https://www.cnblogs.com/aowan/)
 - ⭐Gitee [欢欢有点累](https://gitee.com/ruanhuan666)
 
-<img  alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" height="34%" width="34%"   align="right" 
-     style="margin-top: -60px;" />  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWanOfspace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 技术栈 | Tech Stack
