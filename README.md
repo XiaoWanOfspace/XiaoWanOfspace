@@ -18,7 +18,7 @@ width="800"  height="3">
 🌱一个热爱java的00后 在累 也要学着给自己买花
 
 
-### 关于我
+### About Me
 - ⭐CSDN  [长青青很爱笑](https://blog.csdn.net/qq_40388413)
 - ⚡Blog   [小若欢](https://www.cnblogs.com/aowan/)
 - ⭐Gitee [欢欢有点累](https://gitee.com/ruanhuan666)
@@ -26,8 +26,8 @@ width="800"  height="3">
 
 
 
-### 技术栈 | Tech Stack
-<div>
+### 💻 Workspaces 
+
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
    ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
    ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=Node.js&logoColor=ffffff)</br>
