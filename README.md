@@ -36,6 +36,5 @@ width="800"  height="3">
    [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
    [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWanOfspace&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoWanOfspace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
