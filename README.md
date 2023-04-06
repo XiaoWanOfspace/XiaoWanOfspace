@@ -25,9 +25,9 @@ width="800"  height="3">
 
 
 
-
-### 💻 Workspaces 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 Workspaces 
+
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
    ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
    ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=Node.js&logoColor=ffffff)</br>
