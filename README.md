@@ -27,6 +27,7 @@ width="800"  height="3">
 
 
 ### 💻 Workspaces 
+   <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="160" align="right" style="margin-top:-20px" />
    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)"  />
    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)"  />
@@ -34,7 +35,7 @@ width="800"  height="3">
    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)"  />
    <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)"  />
   <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)"  />   
-     
+  </div>
   
 
 
